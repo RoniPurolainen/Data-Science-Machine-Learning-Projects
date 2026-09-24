@@ -1,2 +1,4 @@
 # Project-repostory
-Some projects that I have done with my own time. Titanic competition is Kaggle competition submission. There is also Black Jack bot that is work in progress.
+Repostory includes my masters thesis "Multitask learning applied to Apple inc. stock data."
+
+There are some other projects also that I have been working on, like Modeling of train delay and Kaggle competition model on titanic rurvivors.
